@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "gamePreset": "SRMI",
+  "displayName": "姬子",
+  "author": {
+    "displayName": "Codex"
+  },
+  "lods": [
+    {
+      "name": "LOD0",
+      "drawIB": [
+        {
+          "hash": "0f8a6711",
+          "alias": "面部"
+        },
+        {
+          "hash": "5c4cef12",
+          "alias": "身体"
+        }
+      ],
+      "skipIB": [],
+      "vsCheck": []
+    }
+  ],
+  "fullData": {
+    "available": false
+  }
+}

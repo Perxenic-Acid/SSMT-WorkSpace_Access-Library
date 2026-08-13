@@ -1,0 +1,83 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Perxenic-Acid/SSMT-WorkSpace_Access-Library/schema/metadata.schema.json",
+  "title": "SSMT workspace metadata",
+  "type": "object",
+  "required": ["schemaVersion", "gamePreset", "displayName", "author", "lods"],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "gamePreset": { "type": "string", "minLength": 1 },
+    "displayName": { "type": "string", "minLength": 1 },
+    "author": {
+      "type": "object",
+      "required": ["displayName"],
+      "properties": {
+        "displayName": { "type": "string", "minLength": 1 }
+      },
+      "additionalProperties": false
+    },
+    "lods": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "drawIB", "skipIB", "vsCheck"],
+        "properties": {
+          "name": { "type": "string", "minLength": 1 },
+          "drawIB": { "$ref": "#/$defs/aliasedHashes" },
+          "skipIB": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["hash", "alias", "indexCount", "firstIndex"],
+              "properties": {
+                "hash": { "type": "string", "minLength": 1 },
+                "alias": { "type": "string" },
+                "indexCount": { "type": "string" },
+                "firstIndex": { "type": "string" }
+              },
+              "additionalProperties": false
+            }
+          },
+          "vsCheck": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["enabled", "hash", "alias"],
+              "properties": {
+                "enabled": { "type": "boolean" },
+                "hash": { "type": "string", "minLength": 1 },
+                "alias": { "type": "string" }
+              },
+              "additionalProperties": false
+            }
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "fullData": {
+      "type": "object",
+      "required": ["available"],
+      "properties": {
+        "available": { "type": "boolean" }
+      },
+      "additionalProperties": false
+    }
+  },
+  "$defs": {
+    "aliasedHash": {
+      "type": "object",
+      "required": ["hash", "alias"],
+      "properties": {
+        "hash": { "type": "string", "minLength": 1 },
+        "alias": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "aliasedHashes": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/aliasedHash" }
+    }
+  },
+  "additionalProperties": false
+}

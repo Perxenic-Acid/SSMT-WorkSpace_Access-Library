@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "gamePreset": "SRMI",
+  "entries": [
+    {
+      "id": "codex/ji-zi",
+      "displayName": "姬子",
+      "author": "Codex",
+      "metadataPath": "games/SRMI/codex/ji-zi/metadata.json",
+      "fullDataAvailable": false,
+      "searchTerms": ["姬子", "Codex", "0f8a6711", "5c4cef12", "面部", "身体"]
+    }
+  ]
+}
