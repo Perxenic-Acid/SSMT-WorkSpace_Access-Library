@@ -1,11 +1,12 @@
 {
   "schemaVersion": 1,
   "gamePreset": "SRMI",
-  "generatedAt": "2026-08-14T12:23:27.873Z",
+  "generatedAt": "2026-08-14T12:29:08.723Z",
   "entries": [
     {
       "entryId": "01a00018-4c7b-79c9-af48-e2d4db38e5e3",
       "workspaceName": "火花 (1)",
+      "description": null,
       "attribution": "anonymous",
       "attributionVerified": false,
       "uploadedAt": "2026-08-14T11:46:26.796Z",
@@ -23,6 +24,7 @@
     {
       "entryId": "01a00008-7756-7b02-90b1-e720956afbf4",
       "workspaceName": "火花",
+      "description": "火花 (功能测试发布)",
       "attribution": "Perxenic Acid",
       "attributionVerified": false,
       "uploadedAt": "2026-08-14T11:29:09.213Z",
@@ -42,6 +44,7 @@
     {
       "entryId": "01a00001-3664-7a0b-b797-9017e4cfc2d1",
       "workspaceName": "远坂凛",
+      "description": "Real workspace access smoke test",
       "attribution": "anonymous",
       "attributionVerified": false,
       "uploadedAt": "2026-08-14T11:21:13.846Z",
@@ -63,6 +66,7 @@
     {
       "entryId": "019fffeb-a8c6-7c32-ad26-c2a944d23d47",
       "workspaceName": "姬子",
+      "description": "Real workspace access smoke test",
       "attribution": "anonymous",
       "attributionVerified": false,
       "uploadedAt": "2026-08-14T10:57:41.256Z",

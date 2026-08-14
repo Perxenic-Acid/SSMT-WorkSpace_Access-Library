@@ -1,11 +1,12 @@
 {
   "schemaVersion": 1,
   "gamePreset": "GIMI",
-  "generatedAt": "2026-08-14T12:23:27.873Z",
+  "generatedAt": "2026-08-14T12:29:08.723Z",
   "entries": [
     {
       "entryId": "01a00039-f247-72b3-96ea-0e7b4ea64837",
       "workspaceName": "冰神像",
+      "description": null,
       "attribution": "anonymous",
       "attributionVerified": false,
       "uploadedAt": "2026-08-14T12:23:11.939Z",
@@ -27,6 +28,7 @@
     {
       "entryId": "01a0002b-1d06-72c2-b443-84b57e0a1aa1",
       "workspaceName": "哥伦比娅",
+      "description": "哥伦比娅 (不含面部)",
       "attribution": "Perxenic Acid",
       "attributionVerified": false,
       "uploadedAt": "2026-08-14T12:06:59.841Z",
@@ -57,6 +59,7 @@
     {
       "entryId": "019fffe8-a806-7136-bb1f-172ad86be745",
       "workspaceName": "奥黛塔",
+      "description": "Real workspace access smoke test",
       "attribution": "anonymous",
       "attributionVerified": false,
       "uploadedAt": "2026-08-14T10:54:24.556Z",
