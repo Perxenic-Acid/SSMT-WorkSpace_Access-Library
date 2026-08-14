@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "entryId": "019fffeb-a8c6-7c32-ad26-c2a944d23d47",
+  "availability": "active",
+  "moderation": {
+    "reviewRequired": true,
+    "reviewState": "pending",
+    "reviewedAt": null
+  },
+  "warning": {
+    "markedAt": null,
+    "reason": null
+  },
+  "deleteAfter": null,
+  "replacementEntryId": null
+}

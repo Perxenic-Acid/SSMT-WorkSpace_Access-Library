@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "gamePreset": "SRMI",
+  "workspaceName": "姬子",
+  "description": "Real workspace access smoke test",
+  "uploadedAt": "2026-08-14T10:57:41.256Z",
+  "capturedAt": null,
+  "gameBuild": null,
+  "attribution": {
+    "mode": "anonymous"
+  },
+  "supersedes": null,
+  "workspaceAliases": [],
+  "generator": {
+    "name": "SSMT",
+    "version": "1.0.0",
+    "validatorVersion": 1
+  },
+  "lods": [
+    {
+      "name": "LOD0",
+      "drawIB": [
+        {
+          "hash": "0f8a6711",
+          "alias": "面部"
+        },
+        {
+          "hash": "5c4cef12",
+          "alias": "身体"
+        }
+      ],
+      "skipIB": [],
+      "vsCheck": []
+    }
+  ],
+  "fullData": {
+    "available": true,
+    "archiveVersion": 1,
+    "objectKey": "packages/sha256/eb/ebd6129da5b23e87c8e70d209bd05dfa50179e52501a14b0da49e90012417ec0.ssmtws",
+    "sha256": "ebd6129da5b23e87c8e70d209bd05dfa50179e52501a14b0da49e90012417ec0",
+    "size": 327043651,
+    "uncompressedSize": 327005798,
+    "fileCount": 194
+  },
+  "entryId": "019fffeb-a8c6-7c32-ad26-c2a944d23d47"
+}
