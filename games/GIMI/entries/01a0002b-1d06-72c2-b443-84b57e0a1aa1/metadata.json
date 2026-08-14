@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "gamePreset": "GIMI",
+  "workspaceName": "哥伦比娅",
+  "description": "奥黛塔 (不含面部)",
+  "uploadedAt": "2026-08-14T12:06:59.841Z",
+  "capturedAt": null,
+  "gameBuild": null,
+  "attribution": {
+    "mode": "custom",
+    "displayName": "Perxenic Acid"
+  },
+  "supersedes": null,
+  "workspaceAliases": [
+    "Odette"
+  ],
+  "generator": {
+    "name": "SSMT",
+    "version": "1.0.0",
+    "validatorVersion": 1
+  },
+  "lods": [
+    {
+      "name": "LOD0",
+      "drawIB": [
+        {
+          "hash": "046eaa73",
+          "alias": "飘带"
+        },
+        {
+          "hash": "35e439e2",
+          "alias": "刘海"
+        },
+        {
+          "hash": "3d13ae6b",
+          "alias": "身体"
+        },
+        {
+          "hash": "80f0bf40",
+          "alias": "眉毛"
+        },
+        {
+          "hash": "9455a4e2",
+          "alias": "发饰"
+        },
+        {
+          "hash": "a6608821",
+          "alias": "眼睛"
+        }
+      ],
+      "skipIB": [
+        {
+          "hash": "d62481cf",
+          "alias": "",
+          "indexCount": 0,
+          "firstIndex": 0
+        },
+        {
+          "hash": "9d48a090",
+          "alias": "",
+          "indexCount": 0,
+          "firstIndex": 0
+        }
+      ],
+      "vsCheck": []
+    }
+  ],
+  "fullData": {
+    "available": true,
+    "archiveVersion": 1,
+    "objectKey": "packages/sha256/48/483ac89cb58c527d7377b3ba36e8a4d3d26bc9840a73a77c18e89928e1d5c399.ssmtws",
+    "sha256": "483ac89cb58c527d7377b3ba36e8a4d3d26bc9840a73a77c18e89928e1d5c399",
+    "size": 157970497,
+    "uncompressedSize": 158043173,
+    "fileCount": 198
+  },
+  "entryId": "01a0002b-1d06-72c2-b443-84b57e0a1aa1"
+}
