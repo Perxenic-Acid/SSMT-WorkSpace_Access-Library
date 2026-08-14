@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "gamePreset": "GIMI",
+  "workspaceName": "Codex Full Smoke",
+  "description": "temporary full-package smoke test",
+  "uploadedAt": "2026-08-14T10:41:45.303Z",
+  "capturedAt": null,
+  "gameBuild": null,
+  "attribution": {
+    "mode": "custom",
+    "displayName": "Codex smoke test"
+  },
+  "supersedes": null,
+  "workspaceAliases": [
+    "Codex Full Smoke",
+    "Zip64"
+  ],
+  "generator": {
+    "name": "SSMT",
+    "version": "unknown",
+    "validatorVersion": 1
+  },
+  "lods": [
+    {
+      "name": "LOD0",
+      "drawIB": [
+        {
+          "hash": "0f8a6711",
+          "alias": "Smoke"
+        }
+      ],
+      "skipIB": [],
+      "vsCheck": []
+    }
+  ],
+  "fullData": {
+    "available": true,
+    "archiveVersion": 1,
+    "objectKey": "packages/sha256/c3/c365e31d75b30393f67f29e4824759ac1bafefcc10ebdf22abeaa8767902a980.ssmtws",
+    "sha256": "c365e31d75b30393f67f29e4824759ac1bafefcc10ebdf22abeaa8767902a980",
+    "size": 5243782,
+    "uncompressedSize": 5242880,
+    "fileCount": 1
+  },
+  "entryId": "019fffdd-1259-7d84-932b-b90b2e04d934"
+}
