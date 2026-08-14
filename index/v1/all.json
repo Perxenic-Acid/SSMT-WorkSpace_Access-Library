@@ -1,8 +1,26 @@
 {
   "schemaVersion": 1,
   "gamePreset": "all",
-  "generatedAt": "2026-08-14T11:29:43.931Z",
+  "generatedAt": "2026-08-14T11:46:48.303Z",
   "entries": [
+    {
+      "entryId": "01a00018-4c7b-79c9-af48-e2d4db38e5e3",
+      "workspaceName": "火花 (1)",
+      "attribution": "anonymous",
+      "attributionVerified": false,
+      "uploadedAt": "2026-08-14T11:46:26.796Z",
+      "capturedAt": null,
+      "drawIB": [
+        "5c2a2064"
+      ],
+      "aliases": [],
+      "fullDataAvailable": false,
+      "fullDataSize": 0,
+      "availability": "active",
+      "reviewState": "not_required",
+      "metadataPath": "games/SRMI/entries/01a00018-4c7b-79c9-af48-e2d4db38e5e3/metadata.json",
+      "gamePreset": "SRMI"
+    },
     {
       "entryId": "01a00008-7756-7b02-90b1-e720956afbf4",
       "workspaceName": "火花",
