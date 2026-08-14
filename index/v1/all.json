@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "gamePreset": "all",
-  "generatedAt": "2026-08-14T13:39:25.296Z",
+  "generatedAt": "2026-08-14T13:42:35.542Z",
   "entries": [
     {
       "entryId": "01a0007d-5ea4-7960-afd4-a396e9749c59",
@@ -100,7 +100,7 @@
         "飘带"
       ],
       "metadataDownloadCount": 0,
-      "fullPackageDownloadCount": 0,
+      "fullPackageDownloadCount": 1,
       "fullDataAvailable": true,
       "fullDataSize": 157970497,
       "availability": "active",
