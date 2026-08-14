@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "gamePreset": "all",
-  "generatedAt": "2026-08-14T12:29:47.708Z",
+  "generatedAt": "2026-08-14T12:54:48.718Z",
   "entries": [
     {
       "entryId": "01a00039-f247-72b3-96ea-0e7b4ea64837",
@@ -19,6 +19,8 @@
         "Ball",
         "MainBody"
       ],
+      "metadataDownloadCount": 0,
+      "fullPackageDownloadCount": 0,
       "fullDataAvailable": false,
       "fullDataSize": 0,
       "availability": "active",
@@ -51,6 +53,8 @@
         "身体",
         "飘带"
       ],
+      "metadataDownloadCount": 0,
+      "fullPackageDownloadCount": 0,
       "fullDataAvailable": true,
       "fullDataSize": 157970497,
       "availability": "active",
@@ -70,6 +74,8 @@
         "5c2a2064"
       ],
       "aliases": [],
+      "metadataDownloadCount": 0,
+      "fullPackageDownloadCount": 0,
       "fullDataAvailable": false,
       "fullDataSize": 0,
       "availability": "active",
@@ -91,6 +97,8 @@
       "aliases": [
         "Sparxie"
       ],
+      "metadataDownloadCount": 0,
+      "fullPackageDownloadCount": 0,
       "fullDataAvailable": true,
       "fullDataSize": 51461047,
       "availability": "active",
@@ -114,6 +122,8 @@
         "身体",
         "面部"
       ],
+      "metadataDownloadCount": 0,
+      "fullPackageDownloadCount": 0,
       "fullDataAvailable": true,
       "fullDataSize": 292528155,
       "availability": "active",
@@ -137,6 +147,8 @@
         "身体",
         "面部"
       ],
+      "metadataDownloadCount": 0,
+      "fullPackageDownloadCount": 0,
       "fullDataAvailable": true,
       "fullDataSize": 327043651,
       "availability": "active",
@@ -162,6 +174,8 @@
         "眼睛",
         "身体"
       ],
+      "metadataDownloadCount": 0,
+      "fullPackageDownloadCount": 0,
       "fullDataAvailable": true,
       "fullDataSize": 95660973,
       "availability": "active",
