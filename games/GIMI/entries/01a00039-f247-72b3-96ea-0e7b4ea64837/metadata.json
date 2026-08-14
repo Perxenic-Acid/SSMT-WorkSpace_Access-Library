@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "gamePreset": "GIMI",
+  "workspaceName": "冰神像",
+  "description": null,
+  "uploadedAt": "2026-08-14T12:23:11.939Z",
+  "capturedAt": null,
+  "gameBuild": null,
+  "attribution": {
+    "mode": "anonymous"
+  },
+  "supersedes": null,
+  "workspaceAliases": [],
+  "generator": {
+    "name": "SSMT",
+    "version": "1.0.0",
+    "validatorVersion": 1
+  },
+  "lods": [
+    {
+      "name": "LOD0",
+      "drawIB": [
+        {
+          "hash": "07514033",
+          "alias": "MainBody"
+        },
+        {
+          "hash": "9ccbfb88",
+          "alias": "Ball"
+        }
+      ],
+      "skipIB": [],
+      "vsCheck": []
+    }
+  ],
+  "fullData": {
+    "available": false
+  },
+  "entryId": "01a00039-f247-72b3-96ea-0e7b4ea64837"
+}
