@@ -1,8 +1,28 @@
 {
   "schemaVersion": 1,
   "gamePreset": "all",
-  "generatedAt": "2026-08-14T11:22:35.296Z",
+  "generatedAt": "2026-08-14T11:29:43.931Z",
   "entries": [
+    {
+      "entryId": "01a00008-7756-7b02-90b1-e720956afbf4",
+      "workspaceName": "火花",
+      "attribution": "Perxenic Acid",
+      "attributionVerified": false,
+      "uploadedAt": "2026-08-14T11:29:09.213Z",
+      "capturedAt": null,
+      "drawIB": [
+        "5c2a2064"
+      ],
+      "aliases": [
+        "Sparxie"
+      ],
+      "fullDataAvailable": true,
+      "fullDataSize": 51461047,
+      "availability": "active",
+      "reviewState": "not_required",
+      "metadataPath": "games/SRMI/entries/01a00008-7756-7b02-90b1-e720956afbf4/metadata.json",
+      "gamePreset": "SRMI"
+    },
     {
       "entryId": "01a00001-3664-7a0b-b797-9017e4cfc2d1",
       "workspaceName": "远坂凛",
