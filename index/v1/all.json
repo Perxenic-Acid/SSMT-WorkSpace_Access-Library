@@ -1,8 +1,31 @@
 {
   "schemaVersion": 1,
   "gamePreset": "all",
-  "generatedAt": "2026-08-14T12:57:15.279Z",
+  "generatedAt": "2026-08-14T13:37:09.185Z",
   "entries": [
+    {
+      "entryId": "01a0007d-4ce6-730c-8e84-ec691881c44f",
+      "workspaceName": "Default",
+      "description": "fsdfsdf",
+      "attribution": "anonymous",
+      "attributionVerified": false,
+      "uploadedAt": "2026-08-14T13:36:46.247Z",
+      "capturedAt": null,
+      "drawIB": [
+        "893ec3c8"
+      ],
+      "aliases": [
+        "dgfsdg"
+      ],
+      "metadataDownloadCount": 0,
+      "fullPackageDownloadCount": 0,
+      "fullDataAvailable": true,
+      "fullDataSize": 32449431,
+      "availability": "active",
+      "reviewState": "not_required",
+      "metadataPath": "games/ZZMI/entries/01a0007d-4ce6-730c-8e84-ec691881c44f/metadata.json",
+      "gamePreset": "ZZMI"
+    },
     {
       "entryId": "01a00039-f247-72b3-96ea-0e7b4ea64837",
       "workspaceName": "冰神像",
