@@ -1,8 +1,31 @@
 {
   "schemaVersion": 1,
   "gamePreset": "all",
-  "generatedAt": "2026-08-14T13:37:09.185Z",
+  "generatedAt": "2026-08-14T13:39:25.296Z",
   "entries": [
+    {
+      "entryId": "01a0007d-5ea4-7960-afd4-a396e9749c59",
+      "workspaceName": "狼的末路",
+      "description": null,
+      "attribution": "Perxenic Acid",
+      "attributionVerified": false,
+      "uploadedAt": "2026-08-14T13:36:51.017Z",
+      "capturedAt": null,
+      "drawIB": [
+        "389602b9"
+      ],
+      "aliases": [
+        "Weapon Body"
+      ],
+      "metadataDownloadCount": 0,
+      "fullPackageDownloadCount": 0,
+      "fullDataAvailable": true,
+      "fullDataSize": 21696563,
+      "availability": "active",
+      "reviewState": "not_required",
+      "metadataPath": "games/GIMI/entries/01a0007d-5ea4-7960-afd4-a396e9749c59/metadata.json",
+      "gamePreset": "GIMI"
+    },
     {
       "entryId": "01a0007d-4ce6-730c-8e84-ec691881c44f",
       "workspaceName": "Default",
