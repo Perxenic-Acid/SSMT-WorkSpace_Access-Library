@@ -1,8 +1,30 @@
 {
   "schemaVersion": 1,
   "gamePreset": "all",
-  "generatedAt": "2026-08-14T10:22:30.717Z",
+  "generatedAt": "2026-08-14T10:42:10.938Z",
   "entries": [
+    {
+      "entryId": "019fffdd-1259-7d84-932b-b90b2e04d934",
+      "workspaceName": "Codex Full Smoke",
+      "attribution": "Codex smoke test",
+      "attributionVerified": false,
+      "uploadedAt": "2026-08-14T10:41:45.303Z",
+      "capturedAt": null,
+      "drawIB": [
+        "0f8a6711"
+      ],
+      "aliases": [
+        "Codex Full Smoke",
+        "Smoke",
+        "Zip64"
+      ],
+      "fullDataAvailable": true,
+      "fullDataSize": 5243782,
+      "availability": "active",
+      "reviewState": "not_required",
+      "metadataPath": "games/GIMI/entries/019fffdd-1259-7d84-932b-b90b2e04d934/metadata.json",
+      "gamePreset": "GIMI"
+    },
     {
       "entryId": "019fff5d-189d-76c5-b487-bebac7122159",
       "workspaceName": "codex-smoke-20260814162156",
