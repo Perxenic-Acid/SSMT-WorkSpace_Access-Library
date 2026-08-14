@@ -1,8 +1,31 @@
 {
   "schemaVersion": 1,
   "gamePreset": "GIMI",
-  "generatedAt": "2026-08-14T10:42:10.938Z",
+  "generatedAt": "2026-08-14T10:55:07.391Z",
   "entries": [
+    {
+      "entryId": "019fffe8-a806-7136-bb1f-172ad86be745",
+      "workspaceName": "奥黛塔",
+      "attribution": "anonymous",
+      "attributionVerified": false,
+      "uploadedAt": "2026-08-14T10:54:24.556Z",
+      "capturedAt": null,
+      "drawIB": [
+        "03b343ef",
+        "425d891c",
+        "bf1830b6"
+      ],
+      "aliases": [
+        "刘海",
+        "眼睛",
+        "身体"
+      ],
+      "fullDataAvailable": true,
+      "fullDataSize": 95660973,
+      "availability": "active",
+      "reviewState": "not_required",
+      "metadataPath": "games/GIMI/entries/019fffe8-a806-7136-bb1f-172ad86be745/metadata.json"
+    },
     {
       "entryId": "019fffdd-1259-7d84-932b-b90b2e04d934",
       "workspaceName": "Codex Full Smoke",
