@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "gamePreset": "GIMI",
   "workspaceName": "哥伦比娅",
-  "description": "奥黛塔 (不含面部)",
+  "description": "哥伦比娅 (不含面部)",
   "uploadedAt": "2026-08-14T12:06:59.841Z",
   "capturedAt": null,
   "gameBuild": null,
@@ -12,7 +12,7 @@
   },
   "supersedes": null,
   "workspaceAliases": [
-    "Odette"
+    "Columbina"
   ],
   "generator": {
     "name": "SSMT",
