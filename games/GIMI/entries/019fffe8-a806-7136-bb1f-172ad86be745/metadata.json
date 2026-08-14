@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "gamePreset": "GIMI",
+  "workspaceName": "奥黛塔",
+  "description": "Real workspace access smoke test",
+  "uploadedAt": "2026-08-14T10:54:24.556Z",
+  "capturedAt": null,
+  "gameBuild": null,
+  "attribution": {
+    "mode": "anonymous"
+  },
+  "supersedes": null,
+  "workspaceAliases": [],
+  "generator": {
+    "name": "SSMT",
+    "version": "1.0.0",
+    "validatorVersion": 1
+  },
+  "lods": [
+    {
+      "name": "LOD0",
+      "drawIB": [
+        {
+          "hash": "bf1830b6",
+          "alias": "身体"
+        },
+        {
+          "hash": "03b343ef",
+          "alias": "眼睛"
+        },
+        {
+          "hash": "425d891c",
+          "alias": "刘海"
+        }
+      ],
+      "skipIB": [],
+      "vsCheck": []
+    }
+  ],
+  "fullData": {
+    "available": true,
+    "archiveVersion": 1,
+    "objectKey": "packages/sha256/c6/c6fda5b0550662ff292a84fb9abc613bb19857cef3080a02b66efe825cba0510.ssmtws",
+    "sha256": "c6fda5b0550662ff292a84fb9abc613bb19857cef3080a02b66efe825cba0510",
+    "size": 95660973,
+    "uncompressedSize": 95693524,
+    "fileCount": 133
+  },
+  "entryId": "019fffe8-a806-7136-bb1f-172ad86be745"
+}
