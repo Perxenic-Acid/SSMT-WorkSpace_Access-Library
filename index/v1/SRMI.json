@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "gamePreset": "SRMI",
+  "generatedAt": "2026-08-14T10:59:12.438Z",
+  "entries": [
+    {
+      "entryId": "019fffeb-a8c6-7c32-ad26-c2a944d23d47",
+      "workspaceName": "姬子",
+      "attribution": "anonymous",
+      "attributionVerified": false,
+      "uploadedAt": "2026-08-14T10:57:41.256Z",
+      "capturedAt": null,
+      "drawIB": [
+        "0f8a6711",
+        "5c4cef12"
+      ],
+      "aliases": [
+        "身体",
+        "面部"
+      ],
+      "fullDataAvailable": true,
+      "fullDataSize": 327043651,
+      "availability": "active",
+      "reviewState": "pending",
+      "metadataPath": "games/SRMI/entries/019fffeb-a8c6-7c32-ad26-c2a944d23d47/metadata.json"
+    }
+  ]
+}
