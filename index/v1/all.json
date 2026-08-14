@@ -1,8 +1,30 @@
 {
   "schemaVersion": 1,
   "gamePreset": "all",
-  "generatedAt": "2026-08-14T12:11:46.564Z",
+  "generatedAt": "2026-08-14T12:23:27.873Z",
   "entries": [
+    {
+      "entryId": "01a00039-f247-72b3-96ea-0e7b4ea64837",
+      "workspaceName": "冰神像",
+      "attribution": "anonymous",
+      "attributionVerified": false,
+      "uploadedAt": "2026-08-14T12:23:11.939Z",
+      "capturedAt": null,
+      "drawIB": [
+        "07514033",
+        "9ccbfb88"
+      ],
+      "aliases": [
+        "Ball",
+        "MainBody"
+      ],
+      "fullDataAvailable": false,
+      "fullDataSize": 0,
+      "availability": "active",
+      "reviewState": "not_required",
+      "metadataPath": "games/GIMI/entries/01a00039-f247-72b3-96ea-0e7b4ea64837/metadata.json",
+      "gamePreset": "GIMI"
+    },
     {
       "entryId": "01a0002b-1d06-72c2-b443-84b57e0a1aa1",
       "workspaceName": "哥伦比娅",
