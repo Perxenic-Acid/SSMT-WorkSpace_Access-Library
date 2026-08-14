@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "gamePreset": "SRMI",
+  "workspaceName": "火花",
+  "description": "火花 (功能测试发布)",
+  "uploadedAt": "2026-08-14T11:29:09.213Z",
+  "capturedAt": null,
+  "gameBuild": null,
+  "attribution": {
+    "mode": "custom",
+    "displayName": "Perxenic Acid"
+  },
+  "supersedes": null,
+  "workspaceAliases": [
+    "Sparxie"
+  ],
+  "generator": {
+    "name": "SSMT",
+    "version": "1.0.0",
+    "validatorVersion": 1
+  },
+  "lods": [
+    {
+      "name": "LOD0",
+      "drawIB": [
+        {
+          "hash": "5c2a2064",
+          "alias": ""
+        }
+      ],
+      "skipIB": [],
+      "vsCheck": []
+    }
+  ],
+  "fullData": {
+    "available": true,
+    "archiveVersion": 1,
+    "objectKey": "packages/sha256/78/78f24d7045591070aee389f4cdaae85bfc04a2a14276b606ae26425c544e2e01.ssmtws",
+    "sha256": "78f24d7045591070aee389f4cdaae85bfc04a2a14276b606ae26425c544e2e01",
+    "size": 51461047,
+    "uncompressedSize": 51456578,
+    "fileCount": 74
+  },
+  "entryId": "01a00008-7756-7b02-90b1-e720956afbf4"
+}
