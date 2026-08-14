@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "gamePreset": "GIMI",
+  "workspaceName": "狼的末路",
+  "description": null,
+  "uploadedAt": "2026-08-14T13:36:51.017Z",
+  "capturedAt": null,
+  "gameBuild": null,
+  "attribution": {
+    "mode": "custom",
+    "displayName": "Perxenic Acid"
+  },
+  "supersedes": null,
+  "workspaceAliases": [],
+  "generator": {
+    "name": "SSMT",
+    "version": "1.0.0",
+    "validatorVersion": 1
+  },
+  "lods": [
+    {
+      "name": "LOD0",
+      "drawIB": [
+        {
+          "hash": "389602b9",
+          "alias": "Weapon Body"
+        }
+      ],
+      "skipIB": [],
+      "vsCheck": []
+    }
+  ],
+  "fullData": {
+    "available": true,
+    "archiveVersion": 1,
+    "objectKey": "packages/sha256/dd/dde0db7bed5eaa9cff69b28b5591ea9c8b08e461b0c8151cecac2b10ebf0a3f5.ssmtws",
+    "sha256": "dde0db7bed5eaa9cff69b28b5591ea9c8b08e461b0c8151cecac2b10ebf0a3f5",
+    "size": 21696563,
+    "uncompressedSize": 21688344,
+    "fileCount": 32
+  },
+  "entryId": "01a0007d-5ea4-7960-afd4-a396e9749c59"
+}
