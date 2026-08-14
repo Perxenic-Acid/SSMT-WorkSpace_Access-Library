@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "gamePreset": "GIMI",
-  "generatedAt": "2026-08-14T12:56:35.363Z",
+  "generatedAt": "2026-08-14T12:57:15.279Z",
   "entries": [
     {
       "entryId": "01a00039-f247-72b3-96ea-0e7b4ea64837",
@@ -19,7 +19,7 @@
         "Ball",
         "MainBody"
       ],
-      "metadataDownloadCount": 0,
+      "metadataDownloadCount": 1,
       "fullPackageDownloadCount": 0,
       "fullDataAvailable": false,
       "fullDataSize": 0,
