@@ -1,8 +1,29 @@
 {
   "schemaVersion": 1,
   "gamePreset": "SRMI",
-  "generatedAt": "2026-08-14T10:59:12.438Z",
+  "generatedAt": "2026-08-14T11:22:35.296Z",
   "entries": [
+    {
+      "entryId": "01a00001-3664-7a0b-b797-9017e4cfc2d1",
+      "workspaceName": "远坂凛",
+      "attribution": "anonymous",
+      "attributionVerified": false,
+      "uploadedAt": "2026-08-14T11:21:13.846Z",
+      "capturedAt": null,
+      "drawIB": [
+        "9d69f637",
+        "e164ded9"
+      ],
+      "aliases": [
+        "身体",
+        "面部"
+      ],
+      "fullDataAvailable": true,
+      "fullDataSize": 292528155,
+      "availability": "active",
+      "reviewState": "pending",
+      "metadataPath": "games/SRMI/entries/01a00001-3664-7a0b-b797-9017e4cfc2d1/metadata.json"
+    },
     {
       "entryId": "019fffeb-a8c6-7c32-ad26-c2a944d23d47",
       "workspaceName": "姬子",
