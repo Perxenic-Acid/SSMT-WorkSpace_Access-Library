@@ -1,8 +1,38 @@
 {
   "schemaVersion": 1,
   "gamePreset": "GIMI",
-  "generatedAt": "2026-08-14T11:46:48.303Z",
+  "generatedAt": "2026-08-14T12:07:57.252Z",
   "entries": [
+    {
+      "entryId": "01a0002b-1d06-72c2-b443-84b57e0a1aa1",
+      "workspaceName": "哥伦比娅",
+      "attribution": "Perxenic Acid",
+      "attributionVerified": false,
+      "uploadedAt": "2026-08-14T12:06:59.841Z",
+      "capturedAt": null,
+      "drawIB": [
+        "046eaa73",
+        "35e439e2",
+        "3d13ae6b",
+        "80f0bf40",
+        "9455a4e2",
+        "a6608821"
+      ],
+      "aliases": [
+        "Odette",
+        "刘海",
+        "发饰",
+        "眉毛",
+        "眼睛",
+        "身体",
+        "飘带"
+      ],
+      "fullDataAvailable": true,
+      "fullDataSize": 157970497,
+      "availability": "active",
+      "reviewState": "not_required",
+      "metadataPath": "games/GIMI/entries/01a0002b-1d06-72c2-b443-84b57e0a1aa1/metadata.json"
+    },
     {
       "entryId": "019fffe8-a806-7136-bb1f-172ad86be745",
       "workspaceName": "奥黛塔",
