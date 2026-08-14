@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "gamePreset": "GIMI",
+  "workspaceName": "codex-smoke-20260814162156",
+  "description": "Temporary authorized smoke test",
+  "uploadedAt": "2026-08-14T08:21:58.307Z",
+  "capturedAt": "2026-08-14T08:21:56.644Z",
+  "gameBuild": "smoke",
+  "attribution": {
+    "mode": "custom",
+    "displayName": "Codex smoke test"
+  },
+  "supersedes": null,
+  "generator": {
+    "name": "SSMT",
+    "version": "unknown",
+    "validatorVersion": 1
+  },
+  "lods": [
+    {
+      "name": "LOD0",
+      "drawIB": [
+        {
+          "hash": "0f8a6711",
+          "alias": "codex-smoke-20260814162156"
+        }
+      ],
+      "skipIB": [],
+      "vsCheck": []
+    }
+  ],
+  "fullData": {
+    "available": false
+  },
+  "entryId": "019fff5d-189d-76c5-b487-bebac7122159"
+}
