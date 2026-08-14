@@ -12,5 +12,7 @@
     "reason": null
   },
   "deleteAfter": null,
-  "replacementEntryId": null
+  "replacementEntryId": null,
+  "metadataDownloadCount": 1,
+  "fullPackageDownloadCount": 0
 }
