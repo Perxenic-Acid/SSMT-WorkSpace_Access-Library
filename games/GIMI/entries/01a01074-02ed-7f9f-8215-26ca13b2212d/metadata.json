@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "gamePreset": "GIMI",
+  "workspaceName": "奥黛塔面部",
+  "description": null,
+  "uploadedAt": "2026-08-17T16:00:33.099Z",
+  "capturedAt": null,
+  "gameBuild": null,
+  "attribution": {
+    "mode": "custom",
+    "displayName": "Perxenic Acid"
+  },
+  "supersedes": null,
+  "workspaceAliases": [],
+  "generator": {
+    "name": "SSMT",
+    "version": "1.0.0",
+    "validatorVersion": 1
+  },
+  "lods": [
+    {
+      "name": "LOD0",
+      "drawIB": [
+        {
+          "hash": "9ad64b83",
+          "alias": "down"
+        },
+        {
+          "hash": "0e33b137",
+          "alias": "up"
+        }
+      ],
+      "skipIB": [],
+      "vsCheck": []
+    }
+  ],
+  "fullData": {
+    "available": true,
+    "archiveVersion": 1,
+    "objectKey": "packages/sha256/68/6880cddb343ef58f2c921e41f59357181364d925ad911f54222a9f346289127f.ssmtws",
+    "sha256": "6880cddb343ef58f2c921e41f59357181364d925ad911f54222a9f346289127f",
+    "size": 40713222,
+    "uncompressedSize": 40724819,
+    "fileCount": 34
+  },
+  "entryId": "01a01074-02ed-7f9f-8215-26ca13b2212d"
+}
