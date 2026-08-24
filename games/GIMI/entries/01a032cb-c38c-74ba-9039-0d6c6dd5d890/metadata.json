@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "gamePreset": "GIMI",
+  "workspaceName": "奥黛塔_full",
+  "description": null,
+  "uploadedAt": "2026-08-24T08:03:29.419Z",
+  "capturedAt": null,
+  "gameBuild": null,
+  "attribution": {
+    "mode": "custom",
+    "displayName": "Perxenic Acid"
+  },
+  "supersedes": null,
+  "workspaceAliases": [],
+  "generator": {
+    "name": "SSMT",
+    "version": "1.0.0",
+    "validatorVersion": 1
+  },
+  "lods": [
+    {
+      "name": "LOD0",
+      "drawIB": [
+        {
+          "hash": "bf1830b6",
+          "alias": "身体"
+        },
+        {
+          "hash": "03b343ef",
+          "alias": "眼睛"
+        },
+        {
+          "hash": "425d891c",
+          "alias": "刘海"
+        },
+        {
+          "hash": "9ad64b83",
+          "alias": "down"
+        },
+        {
+          "hash": "0e33b137",
+          "alias": "up"
+        }
+      ],
+      "skipIB": [],
+      "vsCheck": []
+    }
+  ],
+  "fullData": {
+    "available": true,
+    "archiveVersion": 1,
+    "objectKey": "packages/sha256/3a/3a1dccaae716827a5030dc85bf70049e20224c11e5534a03b86782ecffae6473.ssmtws",
+    "sha256": "3a1dccaae716827a5030dc85bf70049e20224c11e5534a03b86782ecffae6473",
+    "size": 134392520,
+    "uncompressedSize": 134545013,
+    "fileCount": 140
+  },
+  "entryId": "01a032cb-c38c-74ba-9039-0d6c6dd5d890"
+}
