@@ -1,8 +1,29 @@
 {
   "schemaVersion": 1,
   "gamePreset": "all",
-  "generatedAt": "2026-08-24T08:18:45.082Z",
+  "generatedAt": "2026-08-24T08:26:23.810Z",
   "entries": [
+    {
+      "entryId": "01a032e0-5533-70b0-9548-a79685f4f064",
+      "workspaceName": "达塔无头",
+      "description": null,
+      "attribution": "我叫随便",
+      "attributionVerified": false,
+      "uploadedAt": "2026-08-24T08:25:57.425Z",
+      "capturedAt": null,
+      "drawIB": [
+        "52bee393"
+      ],
+      "aliases": [],
+      "metadataDownloadCount": 0,
+      "fullPackageDownloadCount": 0,
+      "fullDataAvailable": true,
+      "fullDataSize": 51272595,
+      "availability": "active",
+      "reviewState": "not_required",
+      "metadataPath": "games/ZZMI/entries/01a032e0-5533-70b0-9548-a79685f4f064/metadata.json",
+      "gamePreset": "ZZMI"
+    },
     {
       "entryId": "01a032cb-c38c-74ba-9039-0d6c6dd5d890",
       "workspaceName": "奥黛塔_full",
