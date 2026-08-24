@@ -1,8 +1,39 @@
 {
   "schemaVersion": 1,
   "gamePreset": "all",
-  "generatedAt": "2026-08-17T16:02:31.925Z",
+  "generatedAt": "2026-08-24T08:04:16.873Z",
   "entries": [
+    {
+      "entryId": "01a032cb-c38c-74ba-9039-0d6c6dd5d890",
+      "workspaceName": "奥黛塔_full",
+      "description": null,
+      "attribution": "Perxenic Acid",
+      "attributionVerified": false,
+      "uploadedAt": "2026-08-24T08:03:29.419Z",
+      "capturedAt": null,
+      "drawIB": [
+        "03b343ef",
+        "0e33b137",
+        "425d891c",
+        "9ad64b83",
+        "bf1830b6"
+      ],
+      "aliases": [
+        "down",
+        "up",
+        "刘海",
+        "眼睛",
+        "身体"
+      ],
+      "metadataDownloadCount": 0,
+      "fullPackageDownloadCount": 0,
+      "fullDataAvailable": true,
+      "fullDataSize": 134392520,
+      "availability": "active",
+      "reviewState": "not_required",
+      "metadataPath": "games/GIMI/entries/01a032cb-c38c-74ba-9039-0d6c6dd5d890/metadata.json",
+      "gamePreset": "GIMI"
+    },
     {
       "entryId": "01a01074-02ed-7f9f-8215-26ca13b2212d",
       "workspaceName": "奥黛塔面部",
