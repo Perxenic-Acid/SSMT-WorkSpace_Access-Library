@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "gamePreset": "ZZMI",
+  "workspaceName": "达塔无头",
+  "description": null,
+  "uploadedAt": "2026-08-24T08:25:57.425Z",
+  "capturedAt": null,
+  "gameBuild": null,
+  "attribution": {
+    "mode": "custom",
+    "displayName": "我叫随便"
+  },
+  "supersedes": null,
+  "workspaceAliases": [],
+  "generator": {
+    "name": "SSMT",
+    "version": "1.0.0",
+    "validatorVersion": 1
+  },
+  "lods": [
+    {
+      "name": "LOD0",
+      "drawIB": [
+        {
+          "hash": "52bee393",
+          "alias": ""
+        }
+      ],
+      "skipIB": [],
+      "vsCheck": []
+    }
+  ],
+  "fullData": {
+    "available": true,
+    "archiveVersion": 1,
+    "objectKey": "packages/sha256/b1/b1a4835e554510bcfc48c45dcfbee2320a091ecf136b9c400a2dafd0c3a5e994.ssmtws",
+    "sha256": "b1a4835e554510bcfc48c45dcfbee2320a091ecf136b9c400a2dafd0c3a5e994",
+    "size": 51272595,
+    "uncompressedSize": 51268286,
+    "fileCount": 23
+  },
+  "entryId": "01a032e0-5533-70b0-9548-a79685f4f064"
+}
