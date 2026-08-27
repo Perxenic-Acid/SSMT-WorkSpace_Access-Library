@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "gamePreset": "ZZMI",
-  "generatedAt": "2026-08-27T05:07:58.355Z",
+  "generatedAt": "2026-08-27T05:12:53.630Z",
   "entries": [
     {
       "entryId": "01a0419c-f0d2-746f-9792-2d245ea59b47",
@@ -25,7 +25,7 @@
         "leg"
       ],
       "metadataDownloadCount": 0,
-      "fullPackageDownloadCount": 0,
+      "fullPackageDownloadCount": 1,
       "fullDataAvailable": true,
       "fullDataSize": 379257242,
       "availability": "active",
