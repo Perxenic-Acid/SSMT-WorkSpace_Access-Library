@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "gamePreset": "all",
-  "generatedAt": "2026-08-27T07:04:23.459Z",
+  "generatedAt": "2026-08-27T07:05:07.531Z",
   "entries": [
     {
       "entryId": "01a0419c-f0d2-746f-9792-2d245ea59b47",
@@ -25,7 +25,7 @@
         "leg"
       ],
       "metadataDownloadCount": 0,
-      "fullPackageDownloadCount": 1,
+      "fullPackageDownloadCount": 2,
       "fullDataAvailable": true,
       "fullDataSize": 379257242,
       "availability": "active",
