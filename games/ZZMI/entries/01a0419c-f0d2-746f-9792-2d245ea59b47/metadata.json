@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "gamePreset": "ZZMI",
+  "workspaceName": "ZZZvelina",
+  "description": "输出mod后没看见贴图路径",
+  "uploadedAt": "2026-08-27T05:06:39.016Z",
+  "capturedAt": null,
+  "gameBuild": null,
+  "attribution": {
+    "mode": "anonymous"
+  },
+  "supersedes": null,
+  "workspaceAliases": [
+    "ZZZ维琳娜"
+  ],
+  "generator": {
+    "name": "SSMT",
+    "version": "1.0.0",
+    "validatorVersion": 1
+  },
+  "lods": [
+    {
+      "name": "LOD0",
+      "drawIB": [
+        {
+          "hash": "1300e048",
+          "alias": "body"
+        },
+        {
+          "hash": "5eb66b57",
+          "alias": "all"
+        },
+        {
+          "hash": "6b25e6d8",
+          "alias": "leg"
+        },
+        {
+          "hash": "6c0b932e",
+          "alias": "basehairjewelry"
+        }
+      ],
+      "skipIB": [],
+      "vsCheck": []
+    }
+  ],
+  "fullData": {
+    "available": true,
+    "archiveVersion": 1,
+    "objectKey": "packages/sha256/11/11c243043261f3bd39af6c283aca9d2322919647a98b6551df4a85f76445cf1d.ssmtws",
+    "sha256": "11c243043261f3bd39af6c283aca9d2322919647a98b6551df4a85f76445cf1d",
+    "size": 379257242,
+    "uncompressedSize": 379268993,
+    "fileCount": 107
+  },
+  "entryId": "01a0419c-f0d2-746f-9792-2d245ea59b47"
+}
