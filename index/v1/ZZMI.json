@@ -1,8 +1,37 @@
 {
   "schemaVersion": 1,
   "gamePreset": "ZZMI",
-  "generatedAt": "2026-08-24T20:30:07.806Z",
+  "generatedAt": "2026-08-27T05:07:58.355Z",
   "entries": [
+    {
+      "entryId": "01a0419c-f0d2-746f-9792-2d245ea59b47",
+      "workspaceName": "ZZZvelina",
+      "description": "输出mod后没看见贴图路径",
+      "attribution": "anonymous",
+      "attributionVerified": false,
+      "uploadedAt": "2026-08-27T05:06:39.016Z",
+      "capturedAt": null,
+      "drawIB": [
+        "1300e048",
+        "5eb66b57",
+        "6b25e6d8",
+        "6c0b932e"
+      ],
+      "aliases": [
+        "ZZZ维琳娜",
+        "all",
+        "basehairjewelry",
+        "body",
+        "leg"
+      ],
+      "metadataDownloadCount": 0,
+      "fullPackageDownloadCount": 0,
+      "fullDataAvailable": true,
+      "fullDataSize": 379257242,
+      "availability": "active",
+      "reviewState": "pending",
+      "metadataPath": "games/ZZMI/entries/01a0419c-f0d2-746f-9792-2d245ea59b47/metadata.json"
+    },
     {
       "entryId": "01a032e0-5533-70b0-9548-a79685f4f064",
       "workspaceName": "达塔无头",
