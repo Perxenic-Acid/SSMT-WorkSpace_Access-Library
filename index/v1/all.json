@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "gamePreset": "all",
-  "generatedAt": "2026-09-03T04:43:03.415Z",
+  "generatedAt": "2026-09-03T04:56:49.883Z",
   "entries": [
     {
       "entryId": "01a064c5-d1c7-7f28-b63c-2a4511e09e4e",
@@ -21,7 +21,7 @@
         "身体",
         "面部"
       ],
-      "metadataDownloadCount": 0,
+      "metadataDownloadCount": 1,
       "fullPackageDownloadCount": 1,
       "fullDataAvailable": true,
       "fullDataSize": 371456498,
