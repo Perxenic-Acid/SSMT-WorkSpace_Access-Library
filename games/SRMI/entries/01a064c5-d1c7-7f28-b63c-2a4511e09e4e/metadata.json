@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "gamePreset": "SRMI",
+  "workspaceName": "遐蝶",
+  "description": "不含死龙",
+  "uploadedAt": "2026-09-03T00:58:00.601Z",
+  "capturedAt": null,
+  "gameBuild": null,
+  "attribution": {
+    "mode": "custom",
+    "displayName": "Perxenic Acid"
+  },
+  "supersedes": null,
+  "workspaceAliases": [],
+  "generator": {
+    "name": "SSMT",
+    "version": "1.0.0",
+    "validatorVersion": 1
+  },
+  "lods": [
+    {
+      "name": "LOD0",
+      "drawIB": [
+        {
+          "hash": "3b4647d4",
+          "alias": "身体"
+        },
+        {
+          "hash": "c5794477",
+          "alias": "头发"
+        },
+        {
+          "hash": "f2584f98",
+          "alias": "面部"
+        }
+      ],
+      "skipIB": [],
+      "vsCheck": []
+    }
+  ],
+  "fullData": {
+    "available": true,
+    "archiveVersion": 1,
+    "objectKey": "packages/sha256/ac/ac0b49736448d1e78609a109d0a7acf81d43a55ee50ae1c9a2b12457380019c9.ssmtws",
+    "sha256": "ac0b49736448d1e78609a109d0a7acf81d43a55ee50ae1c9a2b12457380019c9",
+    "size": 371456498,
+    "uncompressedSize": 371476632,
+    "fileCount": 129
+  },
+  "entryId": "01a064c5-d1c7-7f28-b63c-2a4511e09e4e"
+}
