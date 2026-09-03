@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "gamePreset": "all",
-  "generatedAt": "2026-09-03T00:59:25.587Z",
+  "generatedAt": "2026-09-03T04:43:03.415Z",
   "entries": [
     {
       "entryId": "01a064c5-d1c7-7f28-b63c-2a4511e09e4e",
@@ -22,7 +22,7 @@
         "面部"
       ],
       "metadataDownloadCount": 0,
-      "fullPackageDownloadCount": 0,
+      "fullPackageDownloadCount": 1,
       "fullDataAvailable": true,
       "fullDataSize": 371456498,
       "availability": "active",
