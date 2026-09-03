@@ -1,8 +1,35 @@
 {
   "schemaVersion": 1,
   "gamePreset": "all",
-  "generatedAt": "2026-09-01T11:56:43.167Z",
+  "generatedAt": "2026-09-03T00:59:25.587Z",
   "entries": [
+    {
+      "entryId": "01a064c5-d1c7-7f28-b63c-2a4511e09e4e",
+      "workspaceName": "遐蝶",
+      "description": "不含死龙",
+      "attribution": "Perxenic Acid",
+      "attributionVerified": false,
+      "uploadedAt": "2026-09-03T00:58:00.601Z",
+      "capturedAt": null,
+      "drawIB": [
+        "3b4647d4",
+        "c5794477",
+        "f2584f98"
+      ],
+      "aliases": [
+        "头发",
+        "身体",
+        "面部"
+      ],
+      "metadataDownloadCount": 0,
+      "fullPackageDownloadCount": 0,
+      "fullDataAvailable": true,
+      "fullDataSize": 371456498,
+      "availability": "active",
+      "reviewState": "pending",
+      "metadataPath": "games/SRMI/entries/01a064c5-d1c7-7f28-b63c-2a4511e09e4e/metadata.json",
+      "gamePreset": "SRMI"
+    },
     {
       "entryId": "01a0419c-f0d2-746f-9792-2d245ea59b47",
       "workspaceName": "ZZZvelina",
