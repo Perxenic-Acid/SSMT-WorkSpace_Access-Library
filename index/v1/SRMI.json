@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "gamePreset": "SRMI",
-  "generatedAt": "2026-09-14T09:13:02.560Z",
+  "generatedAt": "2026-09-14T09:14:41.963Z",
   "entries": [
     {
       "entryId": "01a09f30-2d21-774d-838b-479653b680b7",
@@ -18,7 +18,7 @@
         "身体"
       ],
       "metadataDownloadCount": 0,
-      "fullPackageDownloadCount": 0,
+      "fullPackageDownloadCount": 1,
       "fullDataAvailable": true,
       "fullDataSize": 155246924,
       "availability": "active",
