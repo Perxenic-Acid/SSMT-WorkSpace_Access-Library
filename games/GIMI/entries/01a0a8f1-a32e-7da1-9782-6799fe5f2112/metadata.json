@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "gamePreset": "GIMI",
+  "workspaceName": "丝柯克",
+  "description": "含面部",
+  "uploadedAt": "2026-09-16T06:40:02.372Z",
+  "capturedAt": null,
+  "gameBuild": null,
+  "attribution": {
+    "mode": "custom",
+    "displayName": "Perxenic Acid"
+  },
+  "supersedes": null,
+  "workspaceAliases": [],
+  "generator": {
+    "name": "SSMT",
+    "version": "1.0.0",
+    "validatorVersion": 1
+  },
+  "lods": [
+    {
+      "name": "LOD0",
+      "drawIB": [
+        {
+          "hash": "1fbe8217",
+          "alias": "身体"
+        },
+        {
+          "hash": "dafe18b6",
+          "alias": "四肢-头发"
+        },
+        {
+          "hash": "056da8f3",
+          "alias": "裙摆"
+        },
+        {
+          "hash": "74811ddf",
+          "alias": "刘海"
+        },
+        {
+          "hash": "a831e5b5",
+          "alias": "眼"
+        },
+        {
+          "hash": "b7b106d4",
+          "alias": "face_up"
+        },
+        {
+          "hash": "37cb87d5",
+          "alias": "face_down"
+        },
+        {
+          "hash": "983ff2a0",
+          "alias": "face_眉毛"
+        }
+      ],
+      "skipIB": [],
+      "vsCheck": []
+    }
+  ],
+  "fullData": {
+    "available": true,
+    "archiveVersion": 1,
+    "objectKey": "packages/sha256/a8/a8f9f3de6dbf8effab80e9a292decd8cb27c1a9a9600b7be33fdda75148a20f3.ssmtws",
+    "sha256": "a8f9f3de6dbf8effab80e9a292decd8cb27c1a9a9600b7be33fdda75148a20f3",
+    "size": 142118321,
+    "uncompressedSize": 142165711,
+    "fileCount": 106
+  },
+  "entryId": "01a0a8f1-a32e-7da1-9782-6799fe5f2112"
+}
