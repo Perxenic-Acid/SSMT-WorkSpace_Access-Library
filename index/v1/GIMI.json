@@ -1,8 +1,44 @@
 {
   "schemaVersion": 1,
   "gamePreset": "GIMI",
-  "generatedAt": "2026-09-14T09:14:41.963Z",
+  "generatedAt": "2026-09-16T06:40:55.379Z",
   "entries": [
+    {
+      "entryId": "01a0a8f1-a32e-7da1-9782-6799fe5f2112",
+      "workspaceName": "丝柯克",
+      "description": "含面部",
+      "attribution": "Perxenic Acid",
+      "attributionVerified": false,
+      "uploadedAt": "2026-09-16T06:40:02.372Z",
+      "capturedAt": null,
+      "drawIB": [
+        "056da8f3",
+        "1fbe8217",
+        "37cb87d5",
+        "74811ddf",
+        "983ff2a0",
+        "a831e5b5",
+        "b7b106d4",
+        "dafe18b6"
+      ],
+      "aliases": [
+        "face_down",
+        "face_up",
+        "face_眉毛",
+        "刘海",
+        "四肢-头发",
+        "眼",
+        "裙摆",
+        "身体"
+      ],
+      "metadataDownloadCount": 0,
+      "fullPackageDownloadCount": 0,
+      "fullDataAvailable": true,
+      "fullDataSize": 142118321,
+      "availability": "active",
+      "reviewState": "not_required",
+      "metadataPath": "games/GIMI/entries/01a0a8f1-a32e-7da1-9782-6799fe5f2112/metadata.json"
+    },
     {
       "entryId": "01a032cb-c38c-74ba-9039-0d6c6dd5d890",
       "workspaceName": "奥黛塔_full",
