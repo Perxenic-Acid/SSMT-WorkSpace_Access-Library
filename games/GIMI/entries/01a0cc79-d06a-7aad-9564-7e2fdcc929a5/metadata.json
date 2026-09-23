@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "gamePreset": "GIMI",
+  "workspaceName": "莱茵多特",
+  "description": "面部几个物件都是和达妮卡一样的假GPU预蒙皮",
+  "uploadedAt": "2026-09-23T04:15:29.995Z",
+  "capturedAt": null,
+  "gameBuild": null,
+  "attribution": {
+    "mode": "custom",
+    "displayName": "Perxenic Acid"
+  },
+  "supersedes": null,
+  "workspaceAliases": [],
+  "generator": {
+    "name": "SSMT",
+    "version": "1.0.0",
+    "validatorVersion": 1
+  },
+  "lods": [
+    {
+      "name": "LOD0",
+      "drawIB": [
+        {
+          "hash": "c6e43e18",
+          "alias": "身体"
+        },
+        {
+          "hash": "015f3583",
+          "alias": "刘海"
+        },
+        {
+          "hash": "7451276c",
+          "alias": "脸1"
+        },
+        {
+          "hash": "81cd3796",
+          "alias": "脸2"
+        },
+        {
+          "hash": "e71bea40",
+          "alias": "眼"
+        },
+        {
+          "hash": "69174ccd",
+          "alias": "眉"
+        }
+      ],
+      "skipIB": [],
+      "vsCheck": []
+    }
+  ],
+  "fullData": {
+    "available": true,
+    "archiveVersion": 1,
+    "objectKey": "packages/sha256/3b/3bbfaf9a71bb8cba094d06df4e4c71634006584cb1cb898fb39e41f8f452dd90.ssmtws",
+    "sha256": "3bbfaf9a71bb8cba094d06df4e4c71634006584cb1cb898fb39e41f8f452dd90",
+    "size": 182323410,
+    "uncompressedSize": 182423027,
+    "fileCount": 120
+  },
+  "entryId": "01a0cc79-d06a-7aad-9564-7e2fdcc929a5"
+}
