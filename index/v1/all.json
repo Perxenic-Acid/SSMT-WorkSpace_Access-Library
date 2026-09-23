@@ -1,8 +1,39 @@
 {
   "schemaVersion": 1,
   "gamePreset": "all",
-  "generatedAt": "2026-09-16T06:40:55.379Z",
+  "generatedAt": "2026-09-23T02:41:52.935Z",
   "entries": [
+    {
+      "entryId": "01a0cc1f-a50e-722f-9e30-92cbe6660ead",
+      "workspaceName": "达妮卡",
+      "description": "嘴部是 GPU 的, 但如 G. 还是蒙皮结束的物件, 带三个无意义的权重.",
+      "attribution": "Perxenic Acid",
+      "attributionVerified": false,
+      "uploadedAt": "2026-09-23T02:37:00.117Z",
+      "capturedAt": null,
+      "drawIB": [
+        "8a940064",
+        "bb5c0220",
+        "bfc90ddb",
+        "cae60d5f",
+        "e0eaab77"
+      ],
+      "aliases": [
+        "刘海",
+        "眼",
+        "身体",
+        "颌",
+        "颧"
+      ],
+      "metadataDownloadCount": 0,
+      "fullPackageDownloadCount": 0,
+      "fullDataAvailable": true,
+      "fullDataSize": 90299062,
+      "availability": "active",
+      "reviewState": "not_required",
+      "metadataPath": "games/GIMI/entries/01a0cc1f-a50e-722f-9e30-92cbe6660ead/metadata.json",
+      "gamePreset": "GIMI"
+    },
     {
       "entryId": "01a0a8f1-a32e-7da1-9782-6799fe5f2112",
       "workspaceName": "丝柯克",
