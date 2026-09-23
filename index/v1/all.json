@@ -1,8 +1,49 @@
 {
   "schemaVersion": 1,
   "gamePreset": "all",
-  "generatedAt": "2026-09-23T02:41:52.935Z",
+  "generatedAt": "2026-09-23T03:06:00.707Z",
   "entries": [
+    {
+      "entryId": "01a0cc39-4d92-7f12-990b-f37f7ad25200",
+      "workspaceName": "安娜丝塔夏",
+      "description": null,
+      "attribution": "Perxenic Acid",
+      "attributionVerified": false,
+      "uploadedAt": "2026-09-23T03:05:02.188Z",
+      "capturedAt": null,
+      "drawIB": [
+        "2ad1eb88",
+        "2b8a6371",
+        "2f8947ce",
+        "4be1b75c",
+        "5ecd3db1",
+        "89eb3afd",
+        "9b0f0ce7",
+        "b0fc8478",
+        "bb588298",
+        "d41683ed"
+      ],
+      "aliases": [
+        "体",
+        "刘海",
+        "服1",
+        "服2",
+        "眉",
+        "眼",
+        "脸1",
+        "脸2",
+        "裘1",
+        "裘2"
+      ],
+      "metadataDownloadCount": 0,
+      "fullPackageDownloadCount": 0,
+      "fullDataAvailable": true,
+      "fullDataSize": 165726149,
+      "availability": "active",
+      "reviewState": "not_required",
+      "metadataPath": "games/GIMI/entries/01a0cc39-4d92-7f12-990b-f37f7ad25200/metadata.json",
+      "gamePreset": "GIMI"
+    },
     {
       "entryId": "01a0cc1f-a50e-722f-9e30-92cbe6660ead",
       "workspaceName": "达妮卡",
