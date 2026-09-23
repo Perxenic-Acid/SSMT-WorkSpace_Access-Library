@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "gamePreset": "GIMI",
+  "workspaceName": "达妮卡",
+  "description": "嘴部是 GPU 的, 但如 G. 还是蒙皮结束的物件, 带三个无意义的权重.",
+  "uploadedAt": "2026-09-23T02:37:00.117Z",
+  "capturedAt": null,
+  "gameBuild": null,
+  "attribution": {
+    "mode": "custom",
+    "displayName": "Perxenic Acid"
+  },
+  "supersedes": null,
+  "workspaceAliases": [],
+  "generator": {
+    "name": "SSMT",
+    "version": "1.0.0",
+    "validatorVersion": 1
+  },
+  "lods": [
+    {
+      "name": "LOD0",
+      "drawIB": [
+        {
+          "hash": "e0eaab77",
+          "alias": "身体"
+        },
+        {
+          "hash": "8a940064",
+          "alias": "颌"
+        },
+        {
+          "hash": "bb5c0220",
+          "alias": "刘海"
+        },
+        {
+          "hash": "bfc90ddb",
+          "alias": "颧"
+        },
+        {
+          "hash": "cae60d5f",
+          "alias": "眼"
+        }
+      ],
+      "skipIB": [],
+      "vsCheck": []
+    }
+  ],
+  "fullData": {
+    "available": true,
+    "archiveVersion": 1,
+    "objectKey": "packages/sha256/e5/e53f958886ac8919877d444bceaa8d295cf7a8dd24db35192a5377c29b961d65.ssmtws",
+    "sha256": "e53f958886ac8919877d444bceaa8d295cf7a8dd24db35192a5377c29b961d65",
+    "size": 90299062,
+    "uncompressedSize": 90362073,
+    "fileCount": 105
+  },
+  "entryId": "01a0cc1f-a50e-722f-9e30-92cbe6660ead"
+}
