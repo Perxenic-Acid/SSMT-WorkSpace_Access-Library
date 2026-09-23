@@ -1,8 +1,41 @@
 {
   "schemaVersion": 1,
   "gamePreset": "all",
-  "generatedAt": "2026-09-23T03:06:00.707Z",
+  "generatedAt": "2026-09-23T04:16:24.018Z",
   "entries": [
+    {
+      "entryId": "01a0cc79-d06a-7aad-9564-7e2fdcc929a5",
+      "workspaceName": "莱茵多特",
+      "description": "面部几个物件都是和达妮卡一样的假GPU预蒙皮",
+      "attribution": "Perxenic Acid",
+      "attributionVerified": false,
+      "uploadedAt": "2026-09-23T04:15:29.995Z",
+      "capturedAt": null,
+      "drawIB": [
+        "015f3583",
+        "69174ccd",
+        "7451276c",
+        "81cd3796",
+        "c6e43e18",
+        "e71bea40"
+      ],
+      "aliases": [
+        "刘海",
+        "眉",
+        "眼",
+        "脸1",
+        "脸2",
+        "身体"
+      ],
+      "metadataDownloadCount": 0,
+      "fullPackageDownloadCount": 0,
+      "fullDataAvailable": true,
+      "fullDataSize": 182323410,
+      "availability": "active",
+      "reviewState": "not_required",
+      "metadataPath": "games/GIMI/entries/01a0cc79-d06a-7aad-9564-7e2fdcc929a5/metadata.json",
+      "gamePreset": "GIMI"
+    },
     {
       "entryId": "01a0cc39-4d92-7f12-990b-f37f7ad25200",
       "workspaceName": "安娜丝塔夏",
