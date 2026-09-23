@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "entryId": "01a0cc39-4d92-7f12-990b-f37f7ad25200",
+  "availability": "active",
+  "moderation": {
+    "reviewRequired": false,
+    "reviewState": "not_required",
+    "reviewedAt": null
+  },
+  "warning": {
+    "markedAt": null,
+    "reason": null
+  },
+  "metadataDownloadCount": 0,
+  "fullPackageDownloadCount": 0,
+  "deleteAfter": null,
+  "replacementEntryId": null
+}

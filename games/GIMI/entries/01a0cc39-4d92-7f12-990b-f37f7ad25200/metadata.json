@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "gamePreset": "GIMI",
+  "workspaceName": "安娜丝塔夏",
+  "description": null,
+  "uploadedAt": "2026-09-23T03:05:02.188Z",
+  "capturedAt": null,
+  "gameBuild": null,
+  "attribution": {
+    "mode": "custom",
+    "displayName": "Perxenic Acid"
+  },
+  "supersedes": null,
+  "workspaceAliases": [],
+  "generator": {
+    "name": "SSMT",
+    "version": "1.0.0",
+    "validatorVersion": 1
+  },
+  "lods": [
+    {
+      "name": "LOD0",
+      "drawIB": [
+        {
+          "hash": "2ad1eb88",
+          "alias": "脸1"
+        },
+        {
+          "hash": "2b8a6371",
+          "alias": "眉"
+        },
+        {
+          "hash": "2f8947ce",
+          "alias": "裘1"
+        },
+        {
+          "hash": "4be1b75c",
+          "alias": "体"
+        },
+        {
+          "hash": "5ecd3db1",
+          "alias": "脸2"
+        },
+        {
+          "hash": "89eb3afd",
+          "alias": "裘2"
+        },
+        {
+          "hash": "9b0f0ce7",
+          "alias": "刘海"
+        },
+        {
+          "hash": "b0fc8478",
+          "alias": "服1"
+        },
+        {
+          "hash": "bb588298",
+          "alias": "服2"
+        },
+        {
+          "hash": "d41683ed",
+          "alias": "眼"
+        }
+      ],
+      "skipIB": [],
+      "vsCheck": []
+    }
+  ],
+  "fullData": {
+    "available": true,
+    "archiveVersion": 1,
+    "objectKey": "packages/sha256/a2/a218a2159532accd025a174286fc578d52498fa2bd14458e3da6f3aed6d02a30.ssmtws",
+    "sha256": "a218a2159532accd025a174286fc578d52498fa2bd14458e3da6f3aed6d02a30",
+    "size": 165726149,
+    "uncompressedSize": 165980238,
+    "fileCount": 233
+  },
+  "entryId": "01a0cc39-4d92-7f12-990b-f37f7ad25200"
+}
