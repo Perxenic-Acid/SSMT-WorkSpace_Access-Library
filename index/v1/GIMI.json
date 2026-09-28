@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "gamePreset": "GIMI",
-  "generatedAt": "2026-09-25T03:13:16.611Z",
+  "generatedAt": "2026-09-28T13:32:56.310Z",
   "entries": [
     {
       "entryId": "01a0cc79-d06a-7aad-9564-7e2fdcc929a5",
@@ -164,7 +164,7 @@
         "身体"
       ],
       "metadataDownloadCount": 0,
-      "fullPackageDownloadCount": 3,
+      "fullPackageDownloadCount": 4,
       "fullDataAvailable": true,
       "fullDataSize": 134392520,
       "availability": "active",
