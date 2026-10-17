@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "gamePreset": "GIMI",
+  "workspaceName": "Водяница",
+  "description": "沃雅妮莎",
+  "uploadedAt": "2026-10-17T14:12:53.510Z",
+  "capturedAt": null,
+  "gameBuild": null,
+  "attribution": {
+    "mode": "custom",
+    "displayName": "Perxenic Acid"
+  },
+  "supersedes": null,
+  "workspaceAliases": [],
+  "generator": {
+    "name": "SSMT",
+    "version": "1.0.0",
+    "validatorVersion": 1
+  },
+  "lods": [
+    {
+      "name": "LOD0",
+      "drawIB": [
+        {
+          "hash": "405a3a71",
+          "alias": "面部1"
+        },
+        {
+          "hash": "5f601413",
+          "alias": "眉毛"
+        },
+        {
+          "hash": "64d28bf2",
+          "alias": "刘海"
+        },
+        {
+          "hash": "66ec3e27",
+          "alias": "面部2"
+        },
+        {
+          "hash": "848c5980",
+          "alias": "眼部"
+        },
+        {
+          "hash": "d5ae71a3",
+          "alias": "上身"
+        },
+        {
+          "hash": "ede196e7",
+          "alias": "下身"
+        },
+        {
+          "hash": "a828d4c9",
+          "alias": "耳饰"
+        }
+      ],
+      "skipIB": [],
+      "vsCheck": []
+    },
+    {
+      "name": "LOD1",
+      "drawIB": [
+        {
+          "hash": "335e2828",
+          "alias": "鱼尾"
+        },
+        {
+          "hash": "1065312c",
+          "alias": "飘带"
+        }
+      ],
+      "skipIB": [],
+      "vsCheck": []
+    }
+  ],
+  "fullData": {
+    "available": true,
+    "archiveVersion": 1,
+    "objectKey": "packages/sha256/f1/f16f95b09069e2abbfeeb5fddeda73669d38955057e8e2bc599aa8954659898d.ssmtws",
+    "sha256": "f16f95b09069e2abbfeeb5fddeda73669d38955057e8e2bc599aa8954659898d",
+    "size": 500280532,
+    "uncompressedSize": 500510013,
+    "fileCount": 261
+  },
+  "entryId": "01a14a35-5e37-7685-9b43-add470063a7b"
+}
