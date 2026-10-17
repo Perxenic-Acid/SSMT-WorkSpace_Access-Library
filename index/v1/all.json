@@ -1,8 +1,49 @@
 {
   "schemaVersion": 1,
   "gamePreset": "all",
-  "generatedAt": "2026-10-14T20:03:47.120Z",
+  "generatedAt": "2026-10-17T14:21:46.780Z",
   "entries": [
+    {
+      "entryId": "01a14a35-5e37-7685-9b43-add470063a7b",
+      "workspaceName": "Водяница",
+      "description": "沃雅妮莎",
+      "attribution": "Perxenic Acid",
+      "attributionVerified": false,
+      "uploadedAt": "2026-10-17T14:12:53.510Z",
+      "capturedAt": null,
+      "drawIB": [
+        "1065312c",
+        "335e2828",
+        "405a3a71",
+        "5f601413",
+        "64d28bf2",
+        "66ec3e27",
+        "848c5980",
+        "a828d4c9",
+        "d5ae71a3",
+        "ede196e7"
+      ],
+      "aliases": [
+        "上身",
+        "下身",
+        "刘海",
+        "眉毛",
+        "眼部",
+        "耳饰",
+        "面部1",
+        "面部2",
+        "飘带",
+        "鱼尾"
+      ],
+      "metadataDownloadCount": 0,
+      "fullPackageDownloadCount": 0,
+      "fullDataAvailable": true,
+      "fullDataSize": 500280532,
+      "availability": "active",
+      "reviewState": "pending",
+      "metadataPath": "games/GIMI/entries/01a14a35-5e37-7685-9b43-add470063a7b/metadata.json",
+      "gamePreset": "GIMI"
+    },
     {
       "entryId": "01a13c02-d659-75f5-a467-a5a971b18ffd",
       "workspaceName": "Vesna",
