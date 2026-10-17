@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "gamePreset": "all",
-  "generatedAt": "2026-10-17T14:21:46.780Z",
+  "generatedAt": "2026-10-17T14:32:55.817Z",
   "entries": [
     {
       "entryId": "01a14a35-5e37-7685-9b43-add470063a7b",
@@ -36,7 +36,7 @@
         "鱼尾"
       ],
       "metadataDownloadCount": 0,
-      "fullPackageDownloadCount": 0,
+      "fullPackageDownloadCount": 1,
       "fullDataAvailable": true,
       "fullDataSize": 500280532,
       "availability": "active",
