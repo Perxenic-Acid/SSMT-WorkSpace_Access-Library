@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "gamePreset": "GIMI",
+  "workspaceName": "Водяница v1.02",
+  "description": "沃雅尼莎",
+  "uploadedAt": "2026-10-18T07:13:06.080Z",
+  "capturedAt": null,
+  "gameBuild": null,
+  "attribution": {
+    "mode": "custom",
+    "displayName": "Perxenic Acid"
+  },
+  "supersedes": null,
+  "workspaceAliases": [],
+  "generator": {
+    "name": "SSMT",
+    "version": "1.0.0",
+    "validatorVersion": 1
+  },
+  "lods": [
+    {
+      "name": "LOD0",
+      "drawIB": [
+        {
+          "hash": "405a3a71",
+          "alias": "面部1"
+        },
+        {
+          "hash": "5f601413",
+          "alias": "眉毛"
+        },
+        {
+          "hash": "64d28bf2",
+          "alias": "刘海"
+        },
+        {
+          "hash": "66ec3e27",
+          "alias": "面部2"
+        },
+        {
+          "hash": "848c5980",
+          "alias": "眼部"
+        },
+        {
+          "hash": "d5ae71a3",
+          "alias": "上身"
+        },
+        {
+          "hash": "ede196e7",
+          "alias": "下身"
+        },
+        {
+          "hash": "a828d4c9",
+          "alias": "耳饰"
+        },
+        {
+          "hash": "4415b7c6",
+          "alias": "待机镜子"
+        },
+        {
+          "hash": "cf65798c",
+          "alias": "颈饰"
+        },
+        {
+          "hash": "a828d4c9",
+          "alias": "背饰"
+        },
+        {
+          "hash": "dba61c84",
+          "alias": "足饰"
+        }
+      ],
+      "skipIB": [],
+      "vsCheck": []
+    },
+    {
+      "name": "LOD1",
+      "drawIB": [
+        {
+          "hash": "335e2828",
+          "alias": "鱼尾"
+        },
+        {
+          "hash": "1065312c",
+          "alias": "飘带"
+        },
+        {
+          "hash": "6bffc000",
+          "alias": "泡泡"
+        }
+      ],
+      "skipIB": [],
+      "vsCheck": []
+    }
+  ],
+  "fullData": {
+    "available": true,
+    "archiveVersion": 1,
+    "objectKey": "packages/sha256/18/1864c24246a848866c95577f1357bbd9df812548103ba2f021207decf8c7aea8.ssmtws",
+    "sha256": "1864c24246a848866c95577f1357bbd9df812548103ba2f021207decf8c7aea8",
+    "size": 809775016,
+    "uncompressedSize": 810090777,
+    "fileCount": 329
+  },
+  "entryId": "01a14ddb-6480-7773-ae41-59852bae61ed"
+}
