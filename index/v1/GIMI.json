@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "gamePreset": "GIMI",
-  "generatedAt": "2026-10-18T07:15:01.131Z",
+  "generatedAt": "2026-10-18T07:21:00.980Z",
   "entries": [
     {
       "entryId": "01a14ddb-6480-7773-ae41-59852bae61ed",
@@ -45,7 +45,7 @@
         "鱼尾"
       ],
       "metadataDownloadCount": 0,
-      "fullPackageDownloadCount": 0,
+      "fullPackageDownloadCount": 1,
       "fullDataAvailable": true,
       "fullDataSize": 809775016,
       "availability": "active",
