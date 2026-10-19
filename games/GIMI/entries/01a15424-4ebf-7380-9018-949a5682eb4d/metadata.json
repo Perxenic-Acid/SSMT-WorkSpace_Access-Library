@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "gamePreset": "GIMI",
+  "workspaceName": "莱茵多特 NPC",
+  "description": "测试用",
+  "uploadedAt": "2026-10-19T12:30:27.630Z",
+  "capturedAt": null,
+  "gameBuild": null,
+  "attribution": {
+    "mode": "custom",
+    "displayName": "Perxenic Acid"
+  },
+  "supersedes": null,
+  "workspaceAliases": [],
+  "generator": {
+    "name": "SSMT",
+    "version": "1.0.0",
+    "validatorVersion": 1
+  },
+  "lods": [
+    {
+      "name": "LOD0",
+      "drawIB": [
+        {
+          "hash": "c6e43e18",
+          "alias": "身体"
+        },
+        {
+          "hash": "015f3583",
+          "alias": "刘海"
+        },
+        {
+          "hash": "7451276c",
+          "alias": "脸1"
+        },
+        {
+          "hash": "81cd3796",
+          "alias": "脸2"
+        },
+        {
+          "hash": "e71bea40",
+          "alias": "眼"
+        },
+        {
+          "hash": "69174ccd",
+          "alias": "眉"
+        }
+      ],
+      "skipIB": [],
+      "vsCheck": []
+    }
+  ],
+  "fullData": {
+    "available": true,
+    "archiveVersion": 1,
+    "objectKey": "packages/sha256/88/8883ba96cae019351e9050b237818fcf4bb2681d75333decf66678fb695f1907.ssmtws",
+    "sha256": "8883ba96cae019351e9050b237818fcf4bb2681d75333decf66678fb695f1907",
+    "size": 182323416,
+    "uncompressedSize": 182423027,
+    "fileCount": 120
+  },
+  "entryId": "01a15424-4ebf-7380-9018-949a5682eb4d"
+}
