@@ -1,8 +1,40 @@
 {
   "schemaVersion": 1,
   "gamePreset": "GIMI",
-  "generatedAt": "2026-10-19T10:26:32.913Z",
+  "generatedAt": "2026-10-19T12:35:23.358Z",
   "entries": [
+    {
+      "entryId": "01a15424-4ebf-7380-9018-949a5682eb4d",
+      "workspaceName": "莱茵多特 NPC",
+      "description": "测试用",
+      "attribution": "Perxenic Acid",
+      "attributionVerified": false,
+      "uploadedAt": "2026-10-19T12:30:27.630Z",
+      "capturedAt": null,
+      "drawIB": [
+        "015f3583",
+        "69174ccd",
+        "7451276c",
+        "81cd3796",
+        "c6e43e18",
+        "e71bea40"
+      ],
+      "aliases": [
+        "刘海",
+        "眉",
+        "眼",
+        "脸1",
+        "脸2",
+        "身体"
+      ],
+      "metadataDownloadCount": 0,
+      "fullPackageDownloadCount": 0,
+      "fullDataAvailable": true,
+      "fullDataSize": 182323416,
+      "availability": "active",
+      "reviewState": "not_required",
+      "metadataPath": "games/GIMI/entries/01a15424-4ebf-7380-9018-949a5682eb4d/metadata.json"
+    },
     {
       "entryId": "01a14ddb-6480-7773-ae41-59852bae61ed",
       "workspaceName": "Водяница v1.02",
