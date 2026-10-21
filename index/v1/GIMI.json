@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "gamePreset": "GIMI",
-  "generatedAt": "2026-10-19T12:35:23.358Z",
+  "generatedAt": "2026-10-21T09:45:58.355Z",
   "entries": [
     {
       "entryId": "01a15424-4ebf-7380-9018-949a5682eb4d",
@@ -412,7 +412,7 @@
         "飘带"
       ],
       "metadataDownloadCount": 0,
-      "fullPackageDownloadCount": 1,
+      "fullPackageDownloadCount": 2,
       "fullDataAvailable": true,
       "fullDataSize": 157970497,
       "availability": "active",
